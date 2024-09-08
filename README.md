@@ -15,9 +15,10 @@ Welcome to the Unit Converter App! This Android application allows users to easi
 
 Here are some screenshots of the app in action:
 
-![Unit Converter Home Screen](https://github.com/your-username/your-repository-name/blob/main/screenshots/home_screen.png)
+## Screenshots
 
-![Unit Converter Conversion](https://github.com/your-username/your-repository-name/blob/main/screenshots/conversion.png)
+![Unit Converter Home Screen](https://private-user-images.githubusercontent.com/177458760/365455465-60f3dde5-f558-49fa-aa70-d7122ad19334.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4MTY5NjUsIm5iZiI6MTcyNTgxNjY2NSwicGF0aCI6Ii8xNzc0NTg3NjAvMzY1NDU1NDY1LTYwZjNkZGU1LWY1NTgtNDlmYS1hYTcwLWQ3MTIyYWQxOTMzNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwOFQxNzMxMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNDYwNjU4ZTE5NTBhM2Q4MTBmZjU1YWI2NjU1NTcwZTAwMjVlNTZlOTY5NjU3Njc3ZWJlMzMzMDk5NmFjNmE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.WW_MQmSr3KbRie-4IVFRFwNXaPK1sb1L0Bh0liXD41s))
+![Unit Converter Conversion]https://private-user-images.githubusercontent.com/177458760/365455514-c09f9581-254b-491a-bdef-730711603384.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4MTY5NjUsIm5iZiI6MTcyNTgxNjY2NSwicGF0aCI6Ii8xNzc0NTg3NjAvMzY1NDU1NTE0LWMwOWY5NTgxLTI1NGItNDkxYS1iZGVmLTczMDcxMTYwMzM4NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwOFQxNzMxMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNGIyOTMxMmZjZTk5NDQzYTFhYTdkYmViZDlkZWY5ZjE5MjNmMTc0ZmUyZWE4ZjIwMDBkNjEwMWJmNmZkMDg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dqwmJ_cCnsr4kYd8QyRli4cRzT9mhUrHl2gCc2xRvnA
 
 ## Installation
 
@@ -57,21 +58,10 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to [...).
 
 ---
 
-### How to Add Images
 
-1. **Upload Images to the Repository**:
-   - Place your images in a folder within your repository (e.g., `screenshots/`).
-   - Use GitHub's file upload feature or Git commands to upload them.
 
-2. **Get Image URLs**:
-   - Navigate to the uploaded images in GitHub.
-   - Copy the image URLs as described in the previous steps.
 
-3. **Edit README.md**:
-   - Include the image URLs in the README file as shown in the example above.
-
-By using this description template and following the image upload process, you can effectively showcase your app on GitHub and provide useful information to users and contributors.
