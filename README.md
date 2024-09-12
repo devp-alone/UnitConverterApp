@@ -25,7 +25,7 @@ Here are some screenshots of the app in action:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+  
    ```
 2. **Open the Project**:
    - Open Android Studio.
